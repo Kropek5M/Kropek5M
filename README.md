@@ -1,7 +1,7 @@
 <img src="https://media.discordapp.net/attachments/714516815342207087/1124108100530606090/inferno2.png" alt="Computer Icon" width="40" height="40"><a href=""></a>
 
 # About Me:
-<img src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png" alt="Computer Icon" width="40" height="24"> Currently focusing on Fivem Servers <a href="https://github.com/Kropek5M?tab=repositories">https://fivem.net/</a><br><br> 👨‍💻 All of my projects are available at [repositories](https://github.com/Kropek5M?tab=repositories)<br><br> 📝 I regularly write articles on my [Discord](https://discord.gg/FeaBGqEg)<br><br> 💳 My all Paid script you can find  **http://kropek.xyz/**<br><br> 📫 How to reach me **On Discord: kropek666 ( 682504950147973125 )**
+<img src="https://logos-world.net/wp-content/uploads/2021/03/FiveM-Logo.png" alt="Computer Icon" width="40" height="24"> Currently focusing on Fivem Servers <a href="https://github.com/Kropek5M?tab=repositories">https://fivem.net/</a><br><br> 👨‍💻 All of my projects are available at [repositories](https://github.com/Kropek5M?tab=repositories)<br><br> 📝 I regularly write articles on my [Discord](https://discord.gg/FeaBGqEg)<br><br> 💳 My all Paid script you can find  **https://inferno-by-kropek.tebex.io/**<br><br> 📫 How to reach me **On Discord: kropek666 ( 682504950147973125 )**
 
 
 ## 🌐 Socials:
